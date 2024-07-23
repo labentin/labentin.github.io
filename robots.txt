@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://labentin.github.io/sitemap
+Sitemap: https://labentin.github.io/app/sitemap
+Sitemap: https://labentin.github.io/assets/sitemap
+Sitemap: https://labentin.github.io/css/sitemap
+Sitemap: https://labentin.github.io/includes/sitemap
+Sitemap: https://labentin.github.io/item/sitemap
+Sitemap: https://labentin.github.io/src/sitemap
